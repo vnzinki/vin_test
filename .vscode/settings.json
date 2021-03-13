@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\vnzin\\.virtualenvs\\vin-NpmQptvw\\Scripts\\python.exe",
+    "python.formatting.autopep8Path": "C:\\Users\\vnzin\\.virtualenvs\\vin-NpmQptvw\\Scripts\\autopep8.exe",
+    "python.linting.flake8Path": "C:\\Users\\vnzin\\.virtualenvs\\vin-NpmQptvw\\Scripts\\flake8.exe",
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--ignore=E501"
+    ],
+    "python.formatting.provider": "autopep8"
+}
